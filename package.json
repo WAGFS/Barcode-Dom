@@ -1,0 +1,21 @@
+{
+  "name": "Barcode-Dom",
+  "version": "1.0.0",
+  "description": "使用原生dom调用相机调试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WAGFS/Barcode-Dom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WAGFS/Barcode-Dom/issues"
+  },
+  "homepage": "https://github.com/WAGFS/Barcode-Dom#readme",
+  "dependencies": {}
+}
