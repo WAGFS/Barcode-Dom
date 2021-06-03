@@ -54,7 +54,8 @@ export default {
             type = "其它" + type;
             break;
         }
-        that.$toast(result); //我这里是封装的vant 需要根据自己情况进行修改
+        alert(result)
+        //that.$toast(result); //我这里是封装的vant 需要根据自己情况进行修改
         that.closeScan();
       }
     },
